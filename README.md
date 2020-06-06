@@ -1,2 +1,2 @@
-# cs50-cash-python
-cs50's problem set 6
+# Cash
+Implement a program that calculates the minimum number of coins required to give a user change.
